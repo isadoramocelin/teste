@@ -1,5 +1,16 @@
 body{
-background-color: #FF69B4;
+background-color: #e9a3c6;
 
 
+}
+
+
+.desenho{ 
+    color: deeppink;
+    font-size: 20px;
+}
+
+#amigos{
+display: flex;
+padding-left: 200px;
 }
